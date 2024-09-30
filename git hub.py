@@ -1,0 +1,1 @@
+print(privet bratva ya aleg zybotochilka)
